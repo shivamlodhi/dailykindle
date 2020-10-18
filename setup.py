@@ -1,5 +1,5 @@
 from distutils.core import setup
-
+#the set is used for daily new updattiin
 setup(
     name = "dailykindle",
     version = "1.0.0",
